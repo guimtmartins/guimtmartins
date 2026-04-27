@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Guilherme Martins
 
-## Senior .NET Developer | Backend & Full Stack Engineer
+## .NET Backend & API Engineer | ASP.NET Core | Microservices
 
 I’m a software developer with 6+ years of experience building APIs, integrations and scalable applications using C#, ASP.NET Core, Angular and cloud technologies.
 
