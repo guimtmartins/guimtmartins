@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Martins 👋
 
-**.NET Backend Engineer** with 6+ years building high-traffic APIs, microservices, and distributed systems across financial services and healthcare in Brazil — now based in **Brisbane, Australia** and available for **part-time, contract, and temporary roles**.
+**Senior Software Developer** with 6+ years building high-traffic APIs, microservices, and distributed systems across financial services and healthcare in Brazil — now based in **Perth, Australia** and available for **hybrid, remote, contract, and permanent roles**.
 
 ---
 
